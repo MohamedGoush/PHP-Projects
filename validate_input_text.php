@@ -1,4 +1,4 @@
-<form action="index.php" method="post">
+<form action="index.php" method="post"> <!--   Change index.php to your file name -->
     UserName:<input type="text" name="name">
 </form>
 
